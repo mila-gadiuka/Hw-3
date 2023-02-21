@@ -45,11 +45,11 @@ public class Main {
     }
     public static void task3() {
         System.out.println("Задача 3");
-        byte classLudPav = 23; //первый класс
+        byte classLudPav = 23;
         System.out.println("Первый класс состоит из " + classLudPav + " человек");
-        byte classAnnSer = 27; //второй класс
+        byte classAnnSer = 27;
         System.out.println("Второй класс состоит из " + classAnnSer + " человек");
-        byte classEkaAnd = 30; //третий класс
+        byte classEkaAnd = 30;
         System.out.println("Третий класс состоит из " + classEkaAnd + " человек");
         int totalStud = classLudPav + classAnnSer + classEkaAnd;
         System.out.println("Всего во всех трех классах " + totalStud + " человек");
